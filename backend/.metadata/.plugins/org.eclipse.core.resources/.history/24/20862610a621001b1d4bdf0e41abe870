@@ -1,0 +1,5 @@
+package com.redclone.config;
+
+public class MailSenderConfig {
+
+}

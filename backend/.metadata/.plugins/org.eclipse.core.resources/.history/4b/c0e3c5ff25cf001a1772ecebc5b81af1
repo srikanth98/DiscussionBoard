@@ -1,0 +1,11 @@
+spring.datasource.url=jdbc:sqlserver://localhost:1433;databaseName=springbootred;
+spring.datasource.driverClassName=com.microsoft.sqlserver.jdbc.SQLServerDriver
+spring.datasource.username=sa
+spring.datasource.password=Opentext1!
+spring.jpa.generate-ddl=true
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.SQLServerDialect
+spring.jpa.hibernate.ddl-auto=update
+spring.datasource.initialize=true
+spring.jpa.show-sql=true
+jwt.key="This is a test secret key test tsestsststtstssttststs"
+server.port=8484
